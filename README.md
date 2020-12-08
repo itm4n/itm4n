@@ -19,7 +19,7 @@ I'm an offensive security consultant by day. I also do some windows security res
 <p align="center">
 
 <a href="https://github.com/itm4n/itm4n">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itm4n&include_all_commits=true&custom_title=itm4n's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itm4n&include_all_commits=true&custom_title=itm4n's+GitHub+Stats&hide=contribs&show_icons=true&line_height=32&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=b32d00&bg_color=1a1a1a" />
 </a>
 
 <a href="https://github.com/itm4n/itm4n">
@@ -27,18 +27,3 @@ I'm an offensive security consultant by day. I also do some windows security res
 </a>
 
 </p>
-
-<!--
-**itm4n/itm4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
