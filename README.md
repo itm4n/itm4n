@@ -1,13 +1,7 @@
 # itm4n
 
 
-I'm an offensive security consultant by day. I also do some windows security research and develop tools by night. I like to share my findings on my personal blog [itm4n.github.io](https://itm4n.github.io). You can also find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-[1]: https://twitter.com/itm4n
-[2]: https://linkedin.com/in/clementlabro
+I'm an offensive security consultant by day. I also do some windows security research and develop tools by night. I like to share my findings on my personal blog [itm4n.github.io](https://itm4n.github.io). You can also find me on [Twitter](https://twitter.com/itm4n) and [LinkedIn](https://linkedin.com/in/clementlabro).
 
 <p align="center">
     <a href="https://twitter.com/itm4n"><img src="https://img.shields.io/twitter/follow/itm4n?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=1a1a1a&color=802000"></a>
