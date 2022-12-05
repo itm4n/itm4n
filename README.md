@@ -1,8 +1,5 @@
 # itm4n
 
-<!-- Verification link for Mastodon -->
-<a rel="me" href="https://infosec.exchange/@itm4n"></a>
-
 I'm an offensive security consultant by day. I also do some Windows security research and develop tools by night and I try to share most of my work on my personal blog [itm4n.github.io](https://itm4n.github.io).
 
 <p align="center">
